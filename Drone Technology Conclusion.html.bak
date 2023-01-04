@@ -1,0 +1,52 @@
+<html>
+	<head>
+	<title>
+	Drone Technology
+	</title>
+	<style>
+				body{
+					 background: url("Flying Drone.gif") ;
+					 backround-attachement: fixed ;
+					 backround-size: cover ;
+					 color: White;
+					 }
+		</style>
+		<img src="Drone2.jpeg" height="200"/>
+		<img src="White Drone.jpeg" height="200"/>
+<section>
+	<nav>
+	<button><li><a href="DroneTechnology Homepage.html"/>Homepage</a></li></button>
+	</nav>
+</section>
+		<h1>Content</h1>
+		<h2>Impact of Drones:</h2>
+		<h3>Positive Impact of Drones</h3>
+		<p>Drones in the past have shown their use in society, they have helped in emergency services,
+		as camera technology has seen am upward spike, drones have therefore become more and far better advanced and 
+		effective at spotting things humans find hard to see, this can be seen in scenario's where drones assess the situation and look for victims in the aftermath of horrific occurances of natural disaster 
+		such as hurricanes and earthquakes, but have the advanced capabilities to prevent the disasters altogether.</p>
+		<h3>Negative Impact of Drones</h3>
+		<p>Given that drones are airborne, theres always a risk of collision with other flying objects, buildings and power lines,
+		as well as animals.This could negatively impact both parties involved, causing damage or harm to property, wildlife and possibly even human life
+		.There are also many other negative aspects to drones such as noise pollution,
+		which can lead to discomfort and more serious health impacts on humans living close to delivery air corridors
+		,and negative visual impacts on urban environments.</p>
+		<h2>Effect of Drones on Society</h2>
+		<p>the effect of drones on society is majorly positive as there are many benefits such as;
+		<li>Making Inspections More Efficient</li>
+		<li>Helping with Scientific Research</li>
+		<li>Making Delivery Easier</li>
+		<li>Help Emergency responders save lives</li>
+		<li>Drones will transport supplies to the remotes or inaccessible areas</li>
+		and many more benefits</p>
+		<h1>Findings</h1>
+		<img src="Findings.png"/>
+		<h1>Conclusion</h1>
+		<p>We have plentiful evidence that drones are a useful and increasingly widely used technology for collecting
+		spatial and operational data in support of humanitarian operation, one can furthermore conclude that Drones play
+		a bigger role in society than one realises and this is because of the many unnoticed benefits that come with the usage of drones, but we can further conclude that like any good thing,
+		drones also have a negative side to them but their impact overall is majorly positive</p>
+
+
+	</head>
+</html>
